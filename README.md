@@ -1,35 +1,28 @@
-# Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Ashraf Ayman Alsalhi
+Flutter Developer
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+A skilled programmer with strong theoretical and practical expertise, excellent research background, leadership potential, and productive networking skills. Enthusiastic about further opportunities to grow and excel professionally
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Programming Languages: Java, Kotlin, Dart, PHP,  
+- Databases: MySQL, Firebase
+- Tools & Methods: Git, Chat GPT
 
 ## Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2  
+Online freelancer as flutter developer from March 2022 up to now
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
 
 ## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
+**Ecommerce app** (link to project site or GitHub repo)  
+Build a highly function ecommerce app with firebase firesore database, firebase storage, firebase authentication, bloC pattern state management, paypal payment, animation
 
-**Project 2** (link)
-- Description 
-- Accomplishment
+**Messenger app** (link)
+Build a highly function massenger app with firebase realtime database, firebase authentication, firebase push notification, firebase storage, state management, video call, animation
+
+**Social media app**
+Build a simple social app with php database, state management,  animation
+
 
 ## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+Self-Taught Programmer Auguest 2020 - now
