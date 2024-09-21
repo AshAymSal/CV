@@ -14,10 +14,10 @@ Online freelancer as flutter developer from March 2022 up to now
 
 
 ## Projects
-**Ecommerce app** (link to project site or GitHub repo)  
+**Ecommerce app** 
 Build a highly function ecommerce app with firebase firesore database, firebase storage, firebase authentication, bloC pattern state management, paypal payment, animation
 
-**Messenger app** (link)
+**Messenger app** 
 Build a highly function massenger app with firebase realtime database, firebase authentication, firebase push notification, firebase storage, state management, video call, animation
 
 **Social media app**
